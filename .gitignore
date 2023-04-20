@@ -1,3 +1,25 @@
+# Project specific stuff
+src/bruh.xxd.c
+build
+
+# Automake garbage
+**/*~
+**/.dirstamp
+**/.deps
+**/Makefile.in
+**/autom4te.cache
+**/stamp-h1
+src/Makefile
+Makefile
+depcomp
+missing
+compile
+install-sh
+configure
+config.status
+config.log
+aclocal.m4
+
 # Prerequisites
 *.d
 

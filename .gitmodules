@@ -1,0 +1,6 @@
+[submodule "deps/argparse"]
+	path = deps/argparse
+	url = https://github.com/m3tior/argparse
+[submodule "deps/munit"]
+	path = deps/munit
+	url = https://github.com/nemequ/munit
